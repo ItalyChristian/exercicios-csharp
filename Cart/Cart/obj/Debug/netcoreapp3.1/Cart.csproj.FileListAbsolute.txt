@@ -1,0 +1,13 @@
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+C:\wvs\Cart\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+C:\wvs\Cart\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache

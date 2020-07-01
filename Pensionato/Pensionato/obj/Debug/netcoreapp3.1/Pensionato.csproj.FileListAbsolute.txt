@@ -1,0 +1,13 @@
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.exe
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.deps.json
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.json
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.dev.json
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.dll
+C:\wvs\Nova pasta\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.pdb
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csprojAssemblyReference.cache
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csproj.CoreCompileInputs.cache
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfoInputs.cache
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfo.cs
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.dll
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.pdb
+C:\wvs\Nova pasta\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.genruntimeconfig.cache

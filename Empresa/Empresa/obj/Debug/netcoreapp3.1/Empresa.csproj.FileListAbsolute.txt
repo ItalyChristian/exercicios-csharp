@@ -1,0 +1,13 @@
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.exe
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.deps.json
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.json
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.dev.json
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\italy\source\repos\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.csprojAssemblyReference.cache
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfoInputs.cache
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfo.cs
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\italy\source\repos\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.genruntimeconfig.cache
