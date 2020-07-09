@@ -1,5 +1,5 @@
 Exercício proposto da aula 123 / Curso C# - EducandoWeb (Professor: Nelio Alves)
-
+conceitos de: enumerações e composição
 
 Proposta do exercício:
 
